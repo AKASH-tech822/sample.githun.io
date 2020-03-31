@@ -1,0 +1,138 @@
+#header
+{
+   background-color: #990515;
+}
+nav{
+                list-style-type:none;
+                margin:0;
+                padding:35px;
+               
+                
+               
+            }
+            .topright
+            {
+                float:right;
+                margin-top: 2px;
+               
+                
+            }
+           .topleft
+           {
+               float:left;
+               margin-top: 2px;
+              
+           }
+            ul li a{
+                display:block;
+                color:black;
+                padding:4px 4px;
+                text-decoration: none;
+                font-size:20px; 
+                
+            }
+            table
+            {
+                border:1px solid;
+                margin-left: 140px;
+                width:80%;
+                border-collapse: collapse;
+            }
+            th,td
+            {
+               border:1px solid #a4a4a4;
+               padding:15px;
+               height:30px;
+                
+                
+                
+            }
+            th{
+                text-align: left;
+                background-color: #ececec;
+            }
+            li a:hover {
+                          box-shadow: 1px 1px 5px 5px;
+                         color: white;
+                           text-decoration: underline;
+                    }
+                     .form
+                    {
+                       
+                        margin-top: 200px;
+                    }
+                    .form #txt
+                    {
+                        padding:30px 500px;
+                    }
+                    #txt:hover
+                    {
+                        border-color: #e4e4e4;
+                      
+                    }
+                    .buttons
+                    {
+                        text-align: center;
+                        padding-top: 30px;
+                        color: white;
+                      
+                    } 
+                    
+           
+            .thumbnails
+            {
+                display: inline-block;
+                height:auto;
+                
+                padding:8px;
+                background-color: #fff;
+                border:3px solid #a4a4a4;
+                text-align: center;
+                color:#666;
+                margin:80px;
+            }
+            #about{
+                
+            }
+              footer
+                     {
+             
+                background: grey;
+                border-top:solid 2px #e4e4e4; 
+              
+                
+                position:fixed;
+                bottom: 0;
+                padding-bottom: 0;
+                padding-right: 5px;
+                padding-left:5px;
+                width: 98%;
+                     }
+                      footer ul li
+            {
+            
+             color:black;
+             font-size: 15px;
+             padding:5px;
+            }
+             .bottomright
+            {
+                float:right;
+                padding-right: 5px;
+            }
+           .bottomleft
+           {
+               float:left;
+           }
+            footer ul a:hover
+            {
+                text-decoration: underline;
+                box-shadow: 1px 1px 3px 3px;
+                 color: black;
+                
+            }
+            #heading
+            {
+                color:red;
+            }
+            
